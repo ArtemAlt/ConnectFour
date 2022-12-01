@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Connect Four/task" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Log events" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Right assertions" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Composition" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Possible properties types" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/True statements" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Invocations" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Roots of quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Some exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Time difference" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Underscore" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Unsigned integers" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/First digit" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Kotlin lists" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Deposit" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Find the correct invocations" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Greeting" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/URL" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Find the output" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/When expression/From string to a number" />
+            <option value="$PROJECT_DIR$/Topics/When expression/The number of digits" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
